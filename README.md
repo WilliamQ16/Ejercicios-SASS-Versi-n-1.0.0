@@ -85,16 +85,16 @@ Este proyecto se ideo su práctica para ser una opción de presentación de los 
 
 El código SASS tiene todo lo visto en clases anteriores lo único a resaltar es que se puede realizar la animación con efecto hover sin necesidad de código JavaScript.
 
-![SASS1](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme19.png)
+![SASS1](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme19.png)
 
-![SASS2](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme20.png)
+![SASS2](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme20.png)
 
-![SASS3](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme21.png)
+![SASS3](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme21.png)
 
 ### Efecto Hover
 
-![SASS4](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme22.png)
+![SASS4](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme22.png)
 
 ### Resultado Final
 
-![Resultado](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme23.png)
+![Resultado](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme23.png)
