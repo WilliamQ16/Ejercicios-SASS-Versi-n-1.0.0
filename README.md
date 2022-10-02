@@ -27,31 +27,31 @@ Ejercicio Nav Bar con efecto hover realizado en HTML, SASS y JavaScript.
 
 ### Proyecto Nav-Bar código SASS
 
-![SASS1](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme1.png)
+![SASS1](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme1.png)
 
-![SASS2](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme6.png)
+![SASS2](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme2.png)
 
-![SASS3](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme7.png)
+![SASS3](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme3.png)
 
-![SASS4](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme8.png)
+![SASS4](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme4.png)
 
-![SASS5](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme9.png)
+![SASS5](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme5.png)
 
-![SASS6](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme10.png)
+![SASS6](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme6.png)
 
 ### Resultados 
 
-![Resultado1](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme1.png)
+![Resultado1](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme7.png)
 
 ### Proyecto Drap and Drop
 
 Ejercicio Drap and Drop siguiendo con las practicas en el uso del código SASS, el resultado de este proyecto es como el que se ve en pantalla:
 
-![Ejercicio](https://github.com/WilliamQ16/Proyecto-Drap_Drop-Versi-n-1.0.0/blob/main/img_readme/Readme6.png)
+![Ejercicio](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme8.png)
 
 Aparte del código SASS ya aprendido se va a utilizar la librería sortable, que ya tiene todas las animaciones para este proyecto ya realizadas solo es implementar, para conocer este y varios ejemplos de esta librería dirigirse al siguiente link: https://sortablejs.github.io/Sortable/
 
-![Sortable](https://github.com/WilliamQ16/Proyecto-Drap_Drop-Versi-n-1.0.0/blob/main/img_readme/Readme7.png)
+![Sortable](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme9.png)
 
 También para implementarla y conocer su funcionamiento dirigirse a este otro link en GITHUB se recomienda leer el Readme o documentación: https://github.com/SortableJS/Sortable
 
