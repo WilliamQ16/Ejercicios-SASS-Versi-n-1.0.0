@@ -1,0 +1,105 @@
+<!--
+    Entidad: Centro de Biotecnología Agropecuaria
+    Ficha: 2558346
+    Programa: Análisis y Desarrollo de Software - A.D.S.O
+    Autor: William David Garzón Quevedo
+    Objetivo: Creando nav-bar con efecto hover en código SASS y JavaScript.
+    Fecha Creación: 29 de Agosto del 2022
+    Versión: 1.0.0
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NavBar</title>
+  <link rel="stylesheet" href="css/main.css" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+</head>
+
+<body>
+  <nav class="nav" id="nav">
+    <div class="nav__menu container" id="nav-menu">
+      <div class="nav__shape"></div>
+      <div class="nav__close" id="nav-close">
+        <span class="material-icons"> close </span>
+      </div>
+      <div class="nav__data">
+        <div class="nav__mask">
+          <img src="img/Foto.jpg" alt="" class="nav__img" />
+        </div>
+        <span class="nav__saludo">Hola, Yo soy</span>
+        <h1 class="nav__name">
+          William <br />
+          Garzón
+        </h1>
+        <ul class="nav__list">
+          <li class="nav__item">
+            <a href="#inicio" class="nav__link active-link">
+              <span class="material-icons"> home </span>
+              Inicio
+            </a>
+          </li>
+
+          <li class="nav__item">
+            <a href="#acerca" class="nav__link active-link">
+              <span class="material-icons"> account_circle </span>
+              Acerca
+            </a>
+          </li>
+
+          <li class="nav__item">
+            <a href="#portafolio" class="nav__link active-link">
+              <span class="material-icons"> work </span>
+              Hoja de Vida
+            </a>
+          </li>
+
+          <li class="nav__item">
+            <a href="#habilidades" class="nav__link active-link">
+              <span class="material-icons"> bookmarks </span>
+              Habilidades
+            </a>
+          </li>
+
+          <li class="nav__item">
+            <a href="#contacto" class="nav__link active-link">
+              <span class="material-icons"> chat </span>
+              Contacto
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <main class="main" id="main">
+    <header class="header" id="header">
+      <nav class="header__nav container">
+        <a href="#" class="header__logo">Colombia</a>
+        <div class="header__toggle" id="header-toggle">
+          <span class="material-icons"> view_headline </span>
+        </div>
+      </nav>
+    </header>
+    <section class="section section__height container" id="inicio">
+      <h1>Inicio</h1>
+    </section>
+    <section class="section section__height container" id="acerca">
+      <h1>Acerca</h1>
+    </section>
+    <section class="section section__height container" id="portafolio">
+      <h1>Hoja de Vida</h1>
+    </section>
+    <section class="section section__height container" id="habilidades">
+      <h1>Habilidades</h1>
+    </section>
+    <section class="section section__height container" id="contacto">
+      <h1>Contacto</h1>
+    </section>
+  </main>
+  <script src="js/main.js"></script>
+</body>
+
+</html>
