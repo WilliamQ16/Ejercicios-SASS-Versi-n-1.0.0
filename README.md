@@ -43,35 +43,41 @@ Ejercicio Nav Bar con efecto hover realizado en HTML, SASS y JavaScript.
 
 ![Resultado1](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme7.png)
 
+![Resultado2](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme8.png)
+
+![Resultado3](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme8.png)
+
+![Resultado4](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme10.png)
+
 ### Proyecto Drap and Drop
 
 Ejercicio Drap and Drop siguiendo con las practicas en el uso del código SASS, el resultado de este proyecto es como el que se ve en pantalla:
 
-![Ejercicio](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme8.png)
+![Ejercicio](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme11.png)
 
 Aparte del código SASS ya aprendido se va a utilizar la librería sortable, que ya tiene todas las animaciones para este proyecto ya realizadas solo es implementar, para conocer este y varios ejemplos de esta librería dirigirse al siguiente link: https://sortablejs.github.io/Sortable/
 
-![Sortable](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/readme9.png)
+![Sortable](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme12.png)
 
 También para implementarla y conocer su funcionamiento dirigirse a este otro link en GITHUB se recomienda leer el Readme o documentación: https://github.com/SortableJS/Sortable
 
-![Sortable_Git](https://github.com/WilliamQ16/Proyecto-Drap_Drop-Versi-n-1.0.0/blob/main/img_readme/Readme8.png)
+![Sortable_Git](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme13.png)
 
 Al finalizar este trabajo se personalizo con base a colocar la información sobre en este caso de mi equipo de trabajo para el proyecto de final de trimestre CBAGRO quedando el siguiente resultado:
 
 ### Código SASS y JavaScript
 
-![SASS](https://github.com/WilliamQ16/Proyecto-Drap_Drop-Versi-n-1.0.0/blob/main/img_readme/Readme1.png)
+![SASS](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme14.png)
 
-![JavaScript](https://github.com/WilliamQ16/Proyecto-Drap_Drop-Versi-n-1.0.0/blob/main/img_readme/Readme5.png)
+![JavaScript](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme15.png)
 
 ### Resultado Final
 
-![Resultado1](https://github.com/WilliamQ16/Proyecto-Drap_Drop-Versi-n-1.0.0/blob/main/img_readme/Readme2.png)
+![Resultado1](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme16.png)
 
-![Resultado2](https://github.com/WilliamQ16/Proyecto-Drap_Drop-Versi-n-1.0.0/blob/main/img_readme/Readme3.png)
+![Resultado2](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme17.png)
 
-![Resultado3](https://github.com/WilliamQ16/Proyecto-Drap_Drop-Versi-n-1.0.0/blob/main/img_readme/Readme4.png)
+![Resultado3](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme18.png)
 
 ### Proyecto Card Productos
 
@@ -79,16 +85,16 @@ Este proyecto se ideo su práctica para ser una opción de presentación de los 
 
 El código SASS tiene todo lo visto en clases anteriores lo único a resaltar es que se puede realizar la animación con efecto hover sin necesidad de código JavaScript.
 
-![SASS1](https://github.com/WilliamQ16/Card-animado-de-productos-Versi-n-1.0.0-/blob/main/img_readme/readme1.png)
+![SASS1](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme19.png)
 
-![SASS2](https://github.com/WilliamQ16/Card-animado-de-productos-Versi-n-1.0.0-/blob/main/img_readme/readme2.png)
+![SASS2](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme20.png)
 
-![SASS3](https://github.com/WilliamQ16/Card-animado-de-productos-Versi-n-1.0.0-/blob/main/img_readme/readme3.png)
+![SASS3](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme21.png)
 
 ### Efecto Hover
 
-![SASS4](https://github.com/WilliamQ16/Card-animado-de-productos-Versi-n-1.0.0-/blob/main/img_readme/readme4.png)
+![SASS4](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme22.png)
 
 ### Resultado Final
 
-![Resultado](https://github.com/WilliamQ16/Card-animado-de-productos-Versi-n-1.0.0-/blob/main/img_readme/readme5.png)
+![Resultado](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme23.png)
