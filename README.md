@@ -13,13 +13,13 @@ Sass es un procesador CSS. Un preprocesador CSS es una herramienta que nos permi
 
 ### Proyecto Bootstrap con código SASS
 
-![Sass_Inicio](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme5.png)
+![Sass_Inicio](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Inicio.png)
 
-![Sass_Inicio_Resultado](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme5.png)
+![Sass_Inicio_Resultado](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Inicio_Sass.png)
 
 Ahora para aprender más sobre este lenguaje se realizó la edición de este proyecto en un modelo personalizado.:
 
-![Sass_Personalizado](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme5.png)
+![Sass_Personalizado](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Inicio_Per.png)
 
 ### Proyecto Nav-Bar animado
 
@@ -27,7 +27,7 @@ Ejercicio Nav Bar con efecto hover realizado en HTML, SASS y JavaScript.
 
 ### Proyecto Nav-Bar código SASS
 
-![SASS1](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme5.png)
+![SASS1](https://github.com/WilliamQ16/Ejercicios-SASS-Versi-n-1.0.0/blob/main/img_readme/Readme1.png)
 
 ![SASS2](https://github.com/WilliamQ16/Ejercicio-Nav-Bar-Versi-n-1.0.0/blob/main/Proyecto%20Sass_Navbar/img_readme/readme6.png)
 
